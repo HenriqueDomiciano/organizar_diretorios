@@ -1,0 +1,29 @@
+{
+    "Text": [
+        "pdf",
+        "txt",
+        "csv"
+    ],
+    "imagens": [
+        "jpg",
+        "png",
+        "bmp"
+    ],
+    "Audio": [
+        "mp3"
+    ],
+    "Programas": [
+        ".py",
+        ".exe",
+        ".cpp",
+        ".c"
+    ],
+    "zip": [
+        ".gz",
+        ".tar",
+        ".zip"
+    ],
+    "latex": [
+        ".tex"
+    ]
+}
